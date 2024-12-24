@@ -66,7 +66,7 @@ I am a Machine Learning and Data Engineer with 3+ years of experience building s
 
 ## 📫 **Connect with Me**  
 - 📧 **Email:** [bhatiasanskar@gmail.com](mailto:bhatiasanskar@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/sanskar-bhatia](https://linkedin.com/in/sanskar-bhatia)  
+- 🔗 **LinkedIn:** [linkedin.com/in/sanskar-bhatia](www.linkedin.com/in/sanskar-bhatia-a71b37148)  
 - 🌐 **Portfolio:** *(Coming Soon)*  
 
 ---
